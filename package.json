@@ -1,0 +1,28 @@
+{
+  "name": "nodeJS1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alonamel84/nodeJS1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alonamel84/nodeJS1/issues"
+  },
+  "homepage": "https://github.com/Alonamel84/nodeJS1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uniqid": "^5.4.0",
+    "yargs": "^17.3.0"
+  }
+}
